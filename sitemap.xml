@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://zzpeng.com/about/index.html</loc>
+    <loc>https://zzpeng.com/compile-openWrt-firmware-for-RaspberryPi4B/</loc>
     
-    <lastmod>2021-02-11</lastmod>
+    <lastmod>2021-02-12</lastmod>
     
   </url>
   
   <url>
     <loc>https://zzpeng.com/install-Hexo/</loc>
     
-    <lastmod>2021-02-11</lastmod>
+    <lastmod>2021-02-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zzpeng.com/about/index.html</loc>
+    
+    <lastmod>2021-02-12</lastmod>
     
   </url>
   
@@ -39,22 +46,43 @@
 
   <url>
     <loc>https://zzpeng.com/</loc>
-    <lastmod>2021-02-11</lastmod>
+    <lastmod>2021-02-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://zzpeng.com/tags/RaspberryPi/</loc>
+    <lastmod>2021-02-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zzpeng.com/tags/OpenWrt/</loc>
+    <lastmod>2021-02-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zzpeng.com/tags/Lede/</loc>
+    <lastmod>2021-02-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zzpeng.com/tags/hexo/</loc>
-    <lastmod>2021-02-11</lastmod>
+    <lastmod>2021-02-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://zzpeng.com/tags/blog/</loc>
-    <lastmod>2021-02-11</lastmod>
+    <lastmod>2021-02-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
